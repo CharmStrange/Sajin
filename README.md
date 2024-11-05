@@ -2,7 +2,7 @@
 1. How photos are taken? : **Analog Camera**
 2. How photos are taken? : **Digital Camera**
    
-# Data
+# Composition
 1. What is Pixel(Picture Element)?
 2. What is Format?
 
