@@ -13,3 +13,5 @@
 # Computer Vision
 1. How to utilize Digital Image?
 2. How to implement machines using Digital Image?
+
+#
