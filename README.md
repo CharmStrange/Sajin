@@ -25,3 +25,4 @@
 - [Algorithm of Various Filters](https://blog.naver.com/zetmond/223632203262)
 - [Texture & Feature](https://blog.naver.com/zetmond/223640320193)
 - [Tips for handling Digital Image](https://blog.naver.com/zetmond/223638927209)
+- [Segmentation (1)](https://blog.naver.com/zetmond/223653335467)
