@@ -26,3 +26,4 @@
 - [Texture & Feature](https://blog.naver.com/zetmond/223640320193)
 - [Tips for handling Digital Image](https://blog.naver.com/zetmond/223638927209)
 - [Segmentation (1)](https://blog.naver.com/zetmond/223653335467)
+- [Making custom kernel](https://blog.naver.com/zetmond/223654380974)
