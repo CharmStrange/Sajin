@@ -27,4 +27,5 @@
 - [Tips for handling Digital Image](https://blog.naver.com/zetmond/223638927209)
 - [Segmentation (1)](https://blog.naver.com/zetmond/223653335467)
 - [Making custom kernel](https://blog.naver.com/zetmond/223654380974)
+- [Moment](https://blog.naver.com/zetmond/223677484582)
 - [Optimizied Image Segmentation](https://blog.naver.com/zetmond/223692255620)
