@@ -29,3 +29,4 @@
 - [Making custom kernel](https://blog.naver.com/zetmond/223654380974)
 - [Moment](https://blog.naver.com/zetmond/223677484582)
 - [Optimizied Image Segmentation](https://blog.naver.com/zetmond/223692255620)
+- [Applying filters](https://blog.naver.com/zetmond/223641771787)
