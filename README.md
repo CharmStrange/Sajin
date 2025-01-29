@@ -1,4 +1,4 @@
-# Default 0
+# Default 
 1. How photos are taken? : **Analog Camera**
 2. How photos are taken? : **Digital Camera**
    
